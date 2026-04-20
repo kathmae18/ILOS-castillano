@@ -66,7 +66,6 @@ CREATE TABLE `customer` (
 --
 
 INSERT INTO `customer` (`id`, `name`, `email`, `password`, `pic`, `created_at`, `phone`, `address`, `carrier`) VALUES
-(2, 'Valerie Martinez', 'marteyy16@gmail.com', '$2y$10$CuF3TpYrwIzC0/Sz0rMCtenWO6Fvx9KtHa1kP2ocz3rb.64n4tZti', 'customer_2.jpg', '2025-09-09 18:34:57', '09635354999', 'Tabuc Suba Jaro Iloilo City', 'tnt'),
 (4, 'Eddyza Marie Khar Carino', 'eddyza@gmail.com', '$2y$10$2Twvo5Q9Hq5EuwnRJR7rY.VUirN4UM2naf6EozNCSSL7Fv9UKKt6i', 'customer.png', '2025-09-14 13:53:07', '09635354999', 'asdadasdasdasdas', 'tnt'),
 (5, 'vage andrea jayme', 'maea9658@gmail.com', '$2y$10$legLqHjAi8etLtWQhAmd8OQJFhJ4yGZvYyTE35Ln3Qf.Ttxd5GuKe', 'customer_5.png', '2025-09-26 13:08:26', '12334567789900', 'iloilo city', 'tnt'),
 (6, 'james', 'james@gmail.com', '$2y$10$sIFSBxR2.mGXXo02c0ba2uj8PpH8TvsXsxU5Pwmescz87zpUbiToa', 'customer_6.jpeg', '2025-10-25 06:01:55', '9539618441', 'iloilo city', 'tnt'),
