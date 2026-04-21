@@ -17,6 +17,27 @@ Castillano’s Backyard: Integrated Livestock Ordering System (ILOS) is a web-ba
 - System records sales automatically  
 - Admin monitors reports and system activity
 
+#### Log In credentials
+
+The system provides separate access for administrators and customers.
+#### Admin Account
+Use the following credentials to access the admin panel:
+- **Username:** admin  
+- **Password:** admin123  
+
+####  Customer Account
+Users can register their own account through the system.
+
+Alternatively, you may use a sample account:
+
+- **Email:** user@test.com  
+- **Password:** user123  
+
+#### Notes
+- Admin accounts have full control over the system (products, orders, reports).  
+- Customer accounts are limited to ordering and profile management.  
+- It is recommended to change default credentials after deployment for security purposes.  
+
 #### Technology Stack
 - Frontend: HTML, CSS, Bootstrap, JavaScript
 - Backend: PHP
