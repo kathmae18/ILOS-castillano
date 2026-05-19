@@ -9,7 +9,7 @@ Castillano’s Backyard: Integrated Livestock Ordering System (ILOS) is a web-ba
 - Adds items to cart
 - Proceeds to checkout (Cash on Delivery only)
 - Customer tracks order status
-#### Admin Sode
+#### Admin Side
 - Admin logs into the system  
 - Views dashboard summary  
 - Manages products and updates inventory  
